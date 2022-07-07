@@ -1,0 +1,15 @@
+{
+    "Records":[
+        {
+            "s3":{
+                "bucket":{
+                    "name":"jiangren09-andy-dynamodb-demo"
+                },
+                "object":{
+                    "key":"csv/WorldCup.csv"
+                }
+            }
+        }
+    ]
+}
+
